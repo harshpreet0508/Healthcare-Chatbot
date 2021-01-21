@@ -1,4 +1,4 @@
-# Healthcare-Chatbot-
+# Healthcare Chatbot
 
 ### This is a project based on a hypothetical dataset which contains approx 5000 rows and 130 columns containing various symptoms. 
 
