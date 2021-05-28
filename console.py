@@ -1,3 +1,4 @@
+## A Healthcare Chatbot to simulate the predictions of a General Physician ##
 
 # Importing the necessary libraries
 import numpy as np                   # mathematical computations
@@ -31,10 +32,6 @@ dt.fit(X_train,y_train)
 # Saving the columns
 cols = training_dataset.columns
 cols = cols[:-1]
-
-# Fetching important features
-importances = dt.feature_importances_
-indices = np.argsort(importances)[::-1]
 features = cols
 
 # Importing a visual tree
@@ -86,7 +83,7 @@ def execute_bot():
             else:
                 disease = get_disease(tree_.value[node]);
                 
-                print('You may have ' + disease) #predictiong disease
+                print('You may have ' + disease) # predicting disease
                 print()
                 
                 red = dim_red.columns
