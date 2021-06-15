@@ -1,5 +1,11 @@
-### Healthcare Chatbot
+HEALTHCARE CHATBOT
 
-##### A project based on a hypothetical dataset which contains approx 5000 rows and 130 columns containing various symptoms. 
+Chatbot as the name suggests is a program that can interact with a user via text or voice interface. Basically, it is a text-based chatbot with which one can communicate and get a reply through artificial intelligence. Chatbots are programmed in such a way that they respond the same way each time, to respond differently to messages containing different keywords and using ML to adapt to fit the situation. These days hospitals use these chatbots to communicate with different people visiting their websites, helping them discover specialists and further book their appointments. These systems can help to provide support 24*7 without human involvement. By asking different types of questions, it guides patients to get everything he/she is looking for.
 
-##### It predicts the disease based on the symptoms and also has a provision of referring to a doctor. 
+On running the project, one gets a series of questions regarding different symptoms and user responds to it. Based on the responses, the model attempts to predict the disease and mentions the other possible symptoms and further has a provision to refer to a doctor too.
+
+Since, this problem requires a series of decisions to be made to reach a specific result DT is used. It starts from root and leads to the leaves. The intermediate nodes have the conditions i.e. symptoms and the leaves give a specific disease based on those symptoms.
+
+
+
+
