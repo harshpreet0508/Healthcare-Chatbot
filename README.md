@@ -13,7 +13,7 @@ Chatbot as the name suggests is a program that can interact with a user via text
 
 #### Features:
 
-On running the project, one gets a series of questions regarding different symptoms ,and the user responds to them. Based on the responses, the model attempts to predict the disease and mentions the other possible symptoms and further has a provision to refer to a doctor too.
+On running the project, one gets a series of questions regarding different symptoms and the user responds to them. Based on the responses, the model attempts to predict the disease and mentions the other possible symptoms and further has a provision to refer to a doctor too.
 
 
 
