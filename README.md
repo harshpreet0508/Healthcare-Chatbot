@@ -12,12 +12,10 @@ Chatbot as the name suggests is a program that can interact with a user via text
 
 ### Implementation
 
-* Step 1: Enter the name of patient. It is compulsory for predictions
-* Step 2: Enter atleast 2 symptoms from the drop down list
-* Step 3: Click on Prediction for the results from different algorithms
-* Step 4: Based on the symptoms, the model predicts the disease 
-
-  (refer to screenshots folder for every step picture)
+* Step 1: Enter the name of patient. It is compulsory for predictions.
+* Step 2: Enter atleast 2 symptoms from the drop down list.
+* Step 3: Click on Prediction for the results from different algorithms.
+* Step 4: Based on the symptoms, the model predicts the disease. 
 
 ## Final Output
 
