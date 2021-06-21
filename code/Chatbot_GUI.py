@@ -132,6 +132,7 @@ def DecisionTree():
             root.mainloop()
             
     else:                                    # make predictions and plots
+        print("------------------------------")
         print("Name: ", NameEn.get())
 
         dt = DecisionTreeClassifier() 
@@ -322,7 +323,7 @@ def KNN():
         
         # printing scatter plot of disease predicted vs its symptoms
         scatterplt(pred4.get())
-        print("----------------------------------")
+        print("------------------------------")
 
 # Tk class is used to create a root window
 root.configure(background = "Ivory")
