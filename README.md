@@ -12,11 +12,22 @@ Chatbot as the name suggests is a program that can interact with a user via text
 
 ### Implementation
 
+* Step 1: Enter the name of patient. It is compulsory for predictions.
+* Step 2: Enter atleast 2 symptoms from the drop down list.
+* Step 3: Click on Prediction for the results from different algorithms.
+* Step 4: Based on the symptoms, the model predicts the disease.
 
+## Final Output
 
-  * Step 1: Enter the name of patient.
-  * Step 2: Enter atleast 2 symptoms.
-  * Step 3: Click on Prediction for the results from different algorithms.
+<p align="center">
+<img width="600" height="400" src="screenshots/4_symptoms.png">
+</p>
+
+## Conclusion
+
+Chatbots can never replace the work of the doctors yet they can help reduce their workload and help providing some facilities like performing self diagnostic check with help of AI and ML algorithms. By using 4 of these algorithms we acheived an average of 94%. This system can be somewhat reliable and could reduce the rush to OPD's thereby reducing workload on hospital staff. Futhermore, it can help scheduling appointments, answer general queries realted to hospital or doctors, sending reminders, basically for user's engagement 24*7.
+
+The chatbots replacing humans for certain functions definitely makes the process more effective while saving money for both in the short and long terms. A win-win situation which can only get better as the bots become more and more “learned” in their tasks.
 
 
 
