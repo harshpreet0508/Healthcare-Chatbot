@@ -12,9 +12,13 @@ Chatbot as the name suggests is a program that can interact with a user via text
 
 ### Implementation
 
-![alt text](screenshots/Chatbot_GUI.png|width=100)
+<p align="center">
+  <img width="750" height="400" src="screenshots/initial.png">
+</p
 
-
+  * Step 1: Enter the name of patient.
+  * Step 2: Enter atleast 2 symptoms.
+  * Step 3: Click on Prediction for the results from different algorithms.
 
 
 
