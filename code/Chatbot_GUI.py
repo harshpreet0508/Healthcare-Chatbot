@@ -344,7 +344,7 @@ Symptom4 = StringVar()
 Symptom4.set("Select Here")
 
 # Headings for the GUI 
-L1 = Label(root, text = "\tHEATHCARE CHATBOT", fg = "Red", bg = "Ivory")
+L1 = Label(root, text = "\tHEALTHCARE CHATBOT", fg = "Red", bg = "Ivory")
 L1.config(font = ("Times", 20, "bold italic"))
 L1.grid(row = 1, column = 0, columnspan = 2, padx = 100, pady = 15)
 
