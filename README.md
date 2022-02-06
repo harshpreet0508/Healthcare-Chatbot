@@ -20,7 +20,7 @@ Chatbot as the name suggests is a program that can interact with a user via text
 ## Final Output
 
 <p align="center">
-<img width="600" height="400" src="screenshots/4_symptoms.png">
+<img width="600" height="400" src="C:\Users\harsh\OneDrive\Pictures\Screenshots\GUI.png">
 </p>
 
 ## Conclusion
